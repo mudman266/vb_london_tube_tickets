@@ -1,0 +1,12 @@
+C:\School\CSC-139\Chapter5\Lundon Tube Tickets\bin\Debug\Lundon Tube Tickets.exe.config
+C:\School\CSC-139\Chapter5\Lundon Tube Tickets\bin\Debug\Lundon Tube Tickets.exe
+C:\School\CSC-139\Chapter5\Lundon Tube Tickets\bin\Debug\Lundon Tube Tickets.pdb
+C:\School\CSC-139\Chapter5\Lundon Tube Tickets\bin\Debug\Lundon Tube Tickets.xml
+C:\School\CSC-139\Chapter5\Lundon Tube Tickets\obj\Debug\Lundon Tube Tickets.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter5\Lundon Tube Tickets\obj\Debug\Lundon_Tube_Tickets.frmMain.resources
+C:\School\CSC-139\Chapter5\Lundon Tube Tickets\obj\Debug\Lundon_Tube_Tickets.Resources.resources
+C:\School\CSC-139\Chapter5\Lundon Tube Tickets\obj\Debug\Lundon Tube Tickets.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter5\Lundon Tube Tickets\obj\Debug\Lundon Tube Tickets.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter5\Lundon Tube Tickets\obj\Debug\Lundon Tube Tickets.exe
+C:\School\CSC-139\Chapter5\Lundon Tube Tickets\obj\Debug\Lundon Tube Tickets.xml
+C:\School\CSC-139\Chapter5\Lundon Tube Tickets\obj\Debug\Lundon Tube Tickets.pdb
